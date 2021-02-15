@@ -31,5 +31,5 @@
 </p>
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeysharma&show_icons=true&locale=en&layout=compact&theme=dark" alt="kartikeysharma" /></p> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamamiShanker&layout=compact&theme=radical)](https://github.com/NamamiShanker)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KartikeySharma&show_icons=true&theme=dark" alt="kartikeysharma" /></p>
