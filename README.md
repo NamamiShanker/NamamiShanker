@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **System Design and ImageNet**
 
-- 💬 Ask me about **Python and Serverside Development**
+- 💬 Ask me about **Python, Serverside Dev and Linux Sysadmin**
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/namamishanker/">LinkedIn</a>
 
