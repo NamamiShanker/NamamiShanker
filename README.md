@@ -29,7 +29,6 @@
   <a href="https://www.java.com/en/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Python" height="40"/> </a>  
   <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="40"/> </a> 
 </p>
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikeysharma&show_icons=true&locale=en&layout=compact&theme=dark" alt="kartikeysharma" /></p> -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamamiShanker&layout=compact&theme=radical)](https://github.com/NamamiShanker)
 
