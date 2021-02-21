@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Namami</h1>
-<h3 align="center">A Web Developer, Python Nerd and Artist</h3>
+<h3 align="center">A Web Developer, Python Nerd and an Artist</h3>
 
 ![](https://komarev.com/ghpvc/?username=NamamiShanker)
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **System Design and ImageNet**
 
-- 💬 Ask me about **Python, Serverside Dev and Linux Sysadmin**
+- 💬 Ask me about **Python, Serverside Dev and Linux Sysadmin and Music**
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/namamishanker/">LinkedIn</a>
 
