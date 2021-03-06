@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=NamamiShanker)
 
-- 🌱 I’m currently learning **NLP using RNN and AWS**
+- 🌱 I’m currently learning **NLP**
 
 - 👯 I’m looking to collaborate on **Web Apps, ML and Cloud Computing**
 
