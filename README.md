@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/namamishanker/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384046.svg?token=exp=1613380952~hmac=6d6855acae6af46e321abf2e9c128a7f" alt="https://www.linkedin.com/in/namamishanker/" height="30" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/namamishanker/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384046.svg?token=exp=1613380952~hmac=6d6855acae6af46e321abf2e9c128a7f" alt="https://www.linkedin.com/in/namamishanker/" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/franku_19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="franku_19" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
