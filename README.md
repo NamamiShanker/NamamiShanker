@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Serverside Dev and Linux Sysadmin and Music**
 
-- 📫 How to reach me: •<a href="https://www.linkedin.com/in/namamishanker/">LinkedIn</a> •<a href="https://twitter.com/namami_shanker">Twitter</a> 
+- 📫 How to reach me: • <a href="https://www.linkedin.com/in/namamishanker/">LinkedIn</a> • <a href="https://twitter.com/namami_shanker">Twitter</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
