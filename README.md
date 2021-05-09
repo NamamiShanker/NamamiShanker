@@ -3,8 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=NamamiShanker)
 
-- Currently on a break 😅
-
 - 🌱 I’m currently learning **Competitive Programming**
 
 - 👯 I’m looking to collaborate on **Python Apps, Web Apps, ML and Cloud Computing**
