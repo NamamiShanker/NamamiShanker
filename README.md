@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Namami</h1>
-<h3 align="center">A Web Developer, Python Nerd and an Artist</h3>
+<h3 align="center">A Python Nerd, Web Developer and an Artist</h3>
 
 ![](https://komarev.com/ghpvc/?username=NamamiShanker)
 
