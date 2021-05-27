@@ -3,11 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=NamamiShanker)
 
-- 🌱 I’m currently learning **Competitive Programming**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Python Apps, Web Apps, ML and Cloud Computing**
 
-- 🤝 I’m looking for help with **System Design and Python**
+- 🤝 I’m looking for help with **System Design**
 
 - 💬 Ask me about **Python, Serverside Dev and Linux Sysadmin and Music**
 
