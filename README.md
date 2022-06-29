@@ -3,6 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=NamamiShanker)
 
+- 🌏 You must be looking for my [website](https://namamishanker.github.io/)
+
 - 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on **Python Apps, Web Apps, ML and Cloud Computing**
