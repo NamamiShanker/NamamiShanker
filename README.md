@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=NamamiShanker)
 
-- 🌏 You must be looking for my [website](https://namamishanker.github.io/)
+- 🌏 You must be looking for [my website](https://namamishanker.github.io/)
 
 - 🌱 I’m currently learning **DSA**
 
