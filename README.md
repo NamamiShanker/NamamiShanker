@@ -34,5 +34,3 @@
   <a href="https://www.java.com/en/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Python" height="40"/> </a>  
   <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="40"/> </a> 
 </p>
-
-[![Namami's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamamiShanker&show_icons=true&theme=radical&count_private=true)](https://github.com/NamamiShanker)
