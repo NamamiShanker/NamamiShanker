@@ -3,15 +3,13 @@
 
 ![](https://komarev.com/ghpvc/?username=NamamiShanker)
 
-- 🌏 You must be looking for [my website](https://namamishanker.github.io/)
+- 🌏 I sometimes write articles on my website, however thats a long overdue. [My website](https://namamishanker.github.io/)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Java Concurrence in Action**
 
-- 👯 I’m looking to collaborate on **Python Apps, Web Apps, ML and Cloud Computing**
+- 🤝 I’m looking for help with **High Level Design**
 
-- 🤝 I’m looking for help with **System Design**
-
-- 💬 Ask me about **Python, Serverside Dev and Linux Sysadmin and Music**
+- 💬 Ask me about **Java, Python, Serverside Dev and Linux Sysadmin and Music**
 
 - 📫 How to reach me: • <a href="https://www.linkedin.com/in/namamishanker/">LinkedIn</a> • <a href="https://twitter.com/namami_shanker">Twitter</a> 
 
